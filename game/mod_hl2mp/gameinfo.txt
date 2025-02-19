@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"My First HL2MP Mod"
+	game	"Frog Life 2: Multiplayer"
 	title	"HALF+LIFE'"
 	title2	"deathmatch"
 	type multiplayer_only
